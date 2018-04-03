@@ -1,0 +1,46 @@
+{
+  "uid" : "7c0c1f0d49419f0f",
+  "name" : "test_2",
+  "fullName" : "allure_test#test_2",
+  "historyId" : "b26cb25a4eb77e2a1a5391178f259e2b",
+  "time" : {
+    "start" : 1522774453873,
+    "stop" : 1522774453873,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "agorgoma"
+  }, {
+    "name" : "thread",
+    "value" : "15048-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "allure_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c0c1f0d49419f0f.json",
+  "parameterValues" : [ ]
+}
