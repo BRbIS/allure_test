@@ -7,6 +7,7 @@ def test_1():
 
 
 def test_2():
-    b = 2 + 1
 
-    assert b == 3
+    #print(text)
+
+    assert True
